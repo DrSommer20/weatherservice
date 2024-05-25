@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"de.wi23a.weatherservice","l":"App"},{"p":"de.wi23a.weatherservice","l":"MessageBroker"},{"p":"de.wi23a.weatherservice","l":"Publisher"},{"p":"de.wi23a.weatherservice","l":"Subscriber"},{"p":"de.wi23a.weatherservice","l":"WeahterMessage"}];updateSearchResults();
